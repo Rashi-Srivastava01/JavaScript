@@ -10,7 +10,7 @@ email="shi@gmail.com"
 password="1256953"
 
 /*
-we not use var anymore as it issue in functional scope and it
+We not use var anymore as it issue in functional scope and it
 can be re-declared and updated.
 let keyword and not be re-decared but can be updated
 */
