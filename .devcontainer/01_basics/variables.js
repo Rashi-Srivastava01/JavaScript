@@ -7,7 +7,7 @@ city="lucknow"
 // id=9876 // not allowed because const can not be re-declared and updated
 
 email="shi@gmail.com"
-password="1256953"
+password="1256673"
 
 /*
 We not use var anymore as it issue in functional scope and it
