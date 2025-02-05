@@ -12,7 +12,7 @@ password="1256673"
 /*
 We not use var anymore as it issue in functional scope and it
 can be re-declared and updated.
-let keyword and not be re-decared but can be updated
+let keyword can not be re-decared but can be updated
 */
 
 console.table([id,name,email,password,city])
